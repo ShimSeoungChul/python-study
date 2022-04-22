@@ -36,4 +36,3 @@ c2.normalMethod(c2)
 print()
 
 parent = AbstractClass()
-D
